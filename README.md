@@ -1,2 +1,2 @@
 # deathnode
-Python socket chat server &amp; client with implemented hybrid AES-RSA encryption.
+A socket-based chat server &amp; client implemented with hybrid AES-RSA encryption.
